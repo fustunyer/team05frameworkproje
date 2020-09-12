@@ -35,6 +35,7 @@ bu sayfadaki secilmesi veya doldurulmasi gereken Webelementleri bulun ve dogru c
 HotelRoomTest sayfasinda gerekli method veya objectleri olusturun(Select,Actions,switchTo(),moveToElement(),dragAndDrop() vb.)
 yazi bolumune Merhaba Dunya yazdirin.
 price bolmunu herhangi bir ucretle doldurun.
+room u kaydedin.
 
 
 
